@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color:rgb(97, 97, 97);
 }
 
 /* Style the side navigation */
@@ -15,7 +16,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: white;
   overflow-x: hidden;
 }
 
