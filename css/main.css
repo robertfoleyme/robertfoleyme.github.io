@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color:rgb(97, 97, 97);
+  background-color: blanchedalmond;
 }
 
 /* Style the side navigation */
@@ -38,7 +38,7 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: rgb(80, 80, 80);
+  background-color: rgb(199, 199, 199);
   color: black;
 }
 
@@ -46,6 +46,7 @@ body {
 .content {
   margin-left: 200px;
   padding-left: 20px;
+  background-color: blanchedalmond;
 }
 
 .content img {
