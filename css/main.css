@@ -29,6 +29,10 @@
     background: #ccc;
     padding: 20px;
   }
+
+  nav a {
+    text-decoration:none;
+  }
   
   /* Style the list inside the menu */
   nav ul {
@@ -58,7 +62,6 @@ div.gallery img {
   width: 100%;
   height: auto;
 }
-
 
 * {
   box-sizing: border-box;
