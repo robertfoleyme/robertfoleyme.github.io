@@ -30,6 +30,10 @@
     padding: 20px;
   }
 
+  nav li {
+    padding-bottom: 1%;
+  }
+
   nav a {
     text-decoration:none;
   }
