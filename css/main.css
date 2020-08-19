@@ -115,6 +115,9 @@ div.gallery img {
   
   /* Style the footer */
   footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #777;
     padding: 10px;
     text-align: center;
