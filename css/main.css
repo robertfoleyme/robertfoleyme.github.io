@@ -14,10 +14,6 @@
     font-size: 35px;
     color: white;
   }
-
-  header h2 {
-    font-family: 'DM Serif Display', serif;
-  }
   
   /* Container for flexboxes */
   section {
@@ -38,6 +34,10 @@
   nav ul {
     list-style-type: none;
     padding: 0;
+  }
+
+  nav h2 {
+    font-family: 'Playfair Display', serif;
   }
   
   /* Style the content */
