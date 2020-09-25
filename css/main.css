@@ -27,6 +27,10 @@
     padding: 0;
   }
 
+  nav ul span {
+    text-indent: 10%;
+  }
+
   nav h2 {
     font-family: 'Playfair Display', serif;
   }
