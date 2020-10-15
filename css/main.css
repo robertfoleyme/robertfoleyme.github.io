@@ -52,6 +52,10 @@
     max-width: 600px;
     padding-bottom: 25px;
   }
+
+  article h2 {
+    text-align: center;
+  }
   
   /* Style the footer */
   footer {
